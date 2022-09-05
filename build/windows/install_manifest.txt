@@ -1,0 +1,14 @@
+C:/WorkStuff/Mobile/HS/hotel_smart/build/windows/runner/Debug/data/icudtl.dat
+C:/WorkStuff/Mobile/HS/hotel_smart/build/windows/runner/Debug/flutter_windows.dll
+C:/WorkStuff/Mobile/HS/hotel_smart/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/WorkStuff/Mobile/HS/hotel_smart/build/windows/runner/Debug/data/flutter_assets/assets/icons/edit.svg
+C:/WorkStuff/Mobile/HS/hotel_smart/build/windows/runner/Debug/data/flutter_assets/assets/images/fhotel.png
+C:/WorkStuff/Mobile/HS/hotel_smart/build/windows/runner/Debug/data/flutter_assets/assets/images/shotel.png
+C:/WorkStuff/Mobile/HS/hotel_smart/build/windows/runner/Debug/data/flutter_assets/assets/images/splashscreen.png
+C:/WorkStuff/Mobile/HS/hotel_smart/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/WorkStuff/Mobile/HS/hotel_smart/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/WorkStuff/Mobile/HS/hotel_smart/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/WorkStuff/Mobile/HS/hotel_smart/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/WorkStuff/Mobile/HS/hotel_smart/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/WorkStuff/Mobile/HS/hotel_smart/build/windows/runner/Debug/data/flutter_assets/packages/ionicons/fonts/Ionicons.ttf
+C:/WorkStuff/Mobile/HS/hotel_smart/build/windows/runner/Debug/data/flutter_assets/packages/timezone/data/2020a.tzf

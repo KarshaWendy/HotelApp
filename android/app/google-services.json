@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010820561962",
+    "project_id": "hotel-smart-41e05",
+    "storage_bucket": "hotel-smart-41e05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010820561962:android:b0e78ef58783ad29319753",
+        "android_client_info": {
+          "package_name": "com.example.hotel_smart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010820561962-f7ltlgkl28m56hjilfcguud9al9uk3g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAyTDkD2YFtjoTu0DqAHtHUVLy_6zb_Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010820561962-f7ltlgkl28m56hjilfcguud9al9uk3g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

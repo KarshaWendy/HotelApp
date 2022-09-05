@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\WorkStuff\Mobile\HS\hotel_smart\build\windows\CMakeFiles\810127a4e50153f38c0cf6368462916c\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5DA0D8CD-EF71-3570-B32E-1D33D255D75E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
